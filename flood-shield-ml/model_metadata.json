@@ -1,0 +1,12 @@
+{
+  "features": [
+    "latitude",
+    "longitude",
+    "elevation",
+    "current_precip",
+    "forecast_24h",
+    "forecast_72h",
+    "dist_to_river"
+  ],
+  "accuracy": 0.9785
+}
